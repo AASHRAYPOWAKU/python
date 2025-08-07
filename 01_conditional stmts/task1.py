@@ -24,7 +24,7 @@ elif grade>=6 and grade<=8:
     print(final_price3)
 else:
     print("No Discount")
-additional_cases=input("Enter your choice:")
+
 
 
         
